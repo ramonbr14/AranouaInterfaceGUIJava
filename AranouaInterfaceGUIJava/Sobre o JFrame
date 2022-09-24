@@ -1,0 +1,8 @@
+ALERTA: VOCÊ NÃO PODE EXTENDER MAIS DE UMA CLASSE
+Já implementar interfaces pode ser quantas você quiser
+
+1) Implemenmtar uma interface que trata o evento
+	1.1) implementar os metodos da interface
+2) Classe interna que implementa a interface que trata o evento
+	2.1) Instancia objeto para ratar o evento na classe externa
+3) Classe interna anônima para tratar o evento diretamento na classe 
